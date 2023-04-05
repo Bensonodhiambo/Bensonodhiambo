@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning javascript
 - 🌱 I’m currently learning html,css,javascript and bootstrap,jQuery,SASS,React,Redux,React and Redux
 - 💞️ I’m looking to collaborate on html and css projects
-- 📫 <a href="mailto:benodhiambo.bo@gmail.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+- 📫 Email : benodhiambo.bo@gmail.com
 
 <!---
 Bensonodhiambo/Bensonodhiambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
