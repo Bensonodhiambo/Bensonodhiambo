@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bensonodhiambo
-- 👀 I’m interested in learning javascript
-- 🌱 I’m currently learning html,css,javascript and bootstrap,jQuery,SASS,React,Redux,React and Redux
-- 💞️ I’m looking to collaborate on html and css projects
+- 👀 I’m interested in learning SE
+- 🌱 I’m currently learning html,css,javascript,python and bootstrap,jQuery,SASS,React,Redux,React and Redux
+- 💞️ I’m looking to collaborate on frontend and backend projects
 - 📫 Email : benodhiambo.bo@gmail.com
 
 <!---
